@@ -1,0 +1,16 @@
+# Executables
+*.exe
+
+# VS Code
+.vscode/
+
+# Build folders
+.dist/
+
+# Object files
+*.o
+*.obj
+
+# Windows
+Thumbs.db
+Desktop.ini
